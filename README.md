@@ -1,7 +1,9 @@
 <h3 align="center">
   <samp>&gt; Hey there!, I'm <b>Luis Ramirez</b></samp>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=fca311&center=true&vCenter=true&repeat=false&width=500&lines=I'm+a+full+stack+software+engineer+based+on+Brazil" />
 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=fca311&center=true&vCenter=true&repeat=false&width=500&lines=I'm+a+full+stack+software+engineer+based+on+Brazil" />
+</p>
 
 <p>
   <samp>
