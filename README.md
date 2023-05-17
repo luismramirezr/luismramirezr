@@ -38,14 +38,12 @@
 
 #
 
-<p align="right">
- <a href="https://luismramirezr.com" target="blank">
- </a>
-</p>
-
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=luismramirezr&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub streak"/>
 </p>
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luismramirezr&custom_title=GitHub%20Activity&area=true&theme=monokai&bg_color=1F222E&hide_border=true&height=400" alt="GitHub Activity"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luismramirezr&layout=compact&langs_count=6&custom_title=Most+used+languages" alt="Used Languages" />
 </p>
