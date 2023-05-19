@@ -23,8 +23,7 @@
   <h2>Recent Articles</h2>
   <ul>
     <li>
-      <a href="https://github.com/luismramirezr/luismramirezr/blob/main/articles/2023/node-js-multi-threading.md">
-      Concurrency, Parallelism, and Multi-threading in Node.js
+      <a href="https://gist.github.com/luismramirezr/361700f399cda6efa770261b36870509">Concurrency, Parallelism, and Multi-threading in Node.js</a>
       </a>
     </li>
   </ul>
